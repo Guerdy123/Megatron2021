@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Megatron2021
+- 👋 Hi, I’m @Guerdy123
 - 👀 I’m interested in web dev
-- 🌱 I’m currently learning HTMl and CSS
-- 💞️ I’m looking to collaborate on open source project to improve my habilities
+- 🌱 I’m currently learning   C
+- 💞
 - 📫 How to reach me ...
 
 <!---
